@@ -1,2 +1,4 @@
 # qdaria-api
 QDaria API: Integrating Topological Quantum ML &amp; OpenAI for advanced computational tasks, data analysis, and AI enhancements. A versatile tool for developers to access quantum-AI capabilities.
+
+**QDaria** is an innovative API that harnesses the power of Topological Quantum Machine Learning (TQML) and OpenAI's cutting-edge AI capabilities. Designed to revolutionize the way we approach complex computations, data analysis, and AI-driven applications, QDaria offers a unique blend of quantum computing enhancements and AI functionalities. It enables developers to effortlessly integrate quantum-boosted AI features such as advanced embeddings, fine-tuning, image generation, and multi-agent GPT interactions into their applications. Perfect for tackling intricate computational tasks, data processing, and creating intelligent, responsive applications, QDaria paves the way for next-generation technological advancements
