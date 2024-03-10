@@ -1,4 +1,4 @@
-# QDaria API README.md (Updating)
+# QDaria API README.md (Updating - coming soon)
 
 Welcome to **QDaria API**, the future of research assistance. QDaria leverages the unparalleled capabilities of Topological Quantum Machine Learning (TQML) and integrates with cutting-edge AI technologies, providing a comprehensive suite of tools designed for the modern researcher. From dynamic data aggregation to predictive trend analysis, QDaria is your gateway to accelerating discovery and innovation.
 QDaria API: Integrating Topological Quantum ML &amp; OpenAI for advanced computational tasks, data analysis, and AI enhancements. A versatile tool for developers to access quantum-AI capabilities.
